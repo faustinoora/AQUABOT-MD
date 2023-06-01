@@ -1,4 +1,4 @@
-# AQUABOT-MD et Djalega++ <br>le Premium
+# AQUABOT-MD et Djalega++ 
 
 This project is still being tested
 <p align="center"> <a href="github.com/sanuwaofficial"><img align="center" src="https://telegra.ph/file/85fe740b2385a55178500.jpg"/></a>
