@@ -13,7 +13,7 @@ This project is still being tested
 </p>
 <p align='center'>
     </p>
-    
+    cliquez ici pour scanner 👇🏿👇🏿👇🏿
   ### ඔබට පහසුවෙන් QR කේතය Repl.it මඟින් ලබා ගත හැක.. පහල බටනය CLICK කරන්න
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@MagmaGaming/AQUABOT-MDV2?v=1)
